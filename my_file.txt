@@ -1,0 +1,12 @@
+Python file handling has 5 topics.
+They are: 
+1. File reading 
+2. File writing 
+3. File Appending 
+4. File closing 
+5. File Context Management
+ 
+Error handling has: 
+1. Try 
+2. Except 
+3. Finally
